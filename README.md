@@ -4,9 +4,14 @@
 
 Бот доступен в телеграме: https://t.me/kargin_sketch_bot
 
+Step 1: Start the Bot
 
-![Step 1: Start Bot](https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/start_bot.png)
+<img src="https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/start_bot.png" width="650">
 
-![Step 2: Click the gen button](https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/gen_button.png)
+Step 2: Click the gen button
 
-![Step 3: Enjoy the result :)](https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/result.png)
+<img src="https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/gen_button.png" width="650">
+
+Step 3: Enjoy the result :)
+
+<img src="https://github.com/ashot-gimishyan/KarginSketch-Bot/blob/master/img/result.png" width="650">
