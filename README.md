@@ -1,8 +1,8 @@
 # KarginSketch-Bot
 
-При запуске бота пользователю предлагается нажать на кнопку "Сгенерировать новую передачу", чтобы получить случайное видео из "Kargin Haghordum". При нажатии на кнопку бот генерирует случайный номер серии и выполняет поиск видео на YouTube с помощью API. Если видео найдено, бот отправляет пользователю сообщение с названием видео и ссылкой на YouTube.
+When the bot is launched, the user is prompted to click on the "Generate New Episode" button to receive a random video from "Kargin Haghordum". Upon clicking the button, the bot generates a random episode number and searches for the corresponding video on YouTube using the API. If a video is found, the bot sends the user a message containing the video title and a link to YouTube.
 
-Бот доступен в телеграме: https://t.me/kargin_sketch_bot
+The bot is available on Telegram: https://t.me/kargin_sketch_bot
 
 Step 1: Start the Bot
 
